@@ -1,0 +1,131 @@
+[33mcommit 03c52f7567dc579c059112642eab27e4c119cdb6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Fri Oct 30 20:34:52 2020 +0330
+
+    new
+
+[33mcommit bdb36b34ef2165980dc101034ee9dd22654b4d95[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Fri Oct 30 13:02:07 2020 +0330
+
+    update data
+
+[33mcommit 8715d853946ffad7dcfda0ae38ebbdcdacbb2cc3[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Fri Oct 30 11:58:17 2020 +0330
+
+    update data
+
+[33mcommit 92292b07cc9d2c0e2be5529a62b6f39e89f150fd[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 09:24:32 2020 +0330
+
+    new
+
+[33mcommit b8db6ab27f25c636517d21cb4be0e0c76805658d[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 08:23:57 2020 +0330
+
+    update data
+
+[33mcommit f97bc8fa2d8f736fcdce0ab4c4297328335b71f1[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 07:08:46 2020 +0330
+
+    update data
+
+[33mcommit 5b7210c4bec38e1a5cd48ebce43ede4f697c153f[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 02:01:50 2020 +0330
+
+    changed data
+
+[33mcommit 6fc7deb1bc531e1a997aea2e1bf57a2b9d928e89[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 01:59:56 2020 +0330
+
+    delete
+
+[33mcommit 497c0acf0bab0685a2578eb5be567c99f1db1d80[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Wed Oct 28 01:06:59 2020 +0330
+
+    changed data
+
+[33mcommit a6448b437f1a5d3ec0d51209df6f6331ce9b909f[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Tue Oct 27 23:28:49 2020 +0330
+
+    changed data
+
+[33mcommit 102353a9c1a2bea7227ebdbbfed862fc41c2a0ed[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Tue Oct 27 21:47:52 2020 +0330
+
+    change data to right pos/neg
+
+[33mcommit 2a2f9cdc2a2322d40dd3e2201a7c4e2424a085da[m[33m ([m[1;31morigin/me.git[m[33m)[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Tue Oct 27 21:04:03 2020 +0330
+
+    because of pos/neg change the dataset
+
+[33mcommit c9100c99c38d5dfdb15f461919bbae53c9fe085f[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Tue Oct 27 20:50:20 2020 +0330
+
+    change data adress+get out put from dnn of battah+but roc curve is remaining
+
+[33mcommit d16887533eca88a99b8e5a6754f903212aec2077[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Tue Oct 27 20:32:33 2020 +0330
+
+    change data address+get out puut from battah3+but roc curve is remaining
+
+[33mcommit dc40a88292c5b62a4ee9c00a0fba308f3002cccf[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Mon Oct 26 16:49:46 2020 +0330
+
+    preprocess code of cnn
+
+[33mcommit b0ac84ac053cb4073f1aef0615e6285938ac6a5c[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Sat Oct 24 21:16:14 2020 +0330
+
+    for per-trained models use this data
+
+[33mcommit 1942341d7e356d634265aae1359ca7e1989a99ec[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Sat Oct 24 19:53:37 2020 +0330
+
+    aded data that augmented and preprocessed with paper code
+
+[33mcommit 72b0e8123745ed2503f5aa38d97d9ba7ec8c9fc4[m
+Author: Behnejadi <fa.behnejadi@gmail.com>
+Date:   Sat Oct 24 15:29:38 2020 +0330
+
+    adad data with aug and preprocess of orginal paper
+
+[33mcommit 22c73fe8fcdc026a8af2b8e39b849521c8c91ede[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Behnejadi <67309565+Behnejadi@users.noreply.github.com>
+Date:   Fri Oct 23 15:15:32 2020 +0330
+
+    Add files via upload
+
+[33mcommit 793c57b14a1f4832f49ffb69489f02a858d2b6b4[m
+Author: Behnejadi <67309565+Behnejadi@users.noreply.github.com>
+Date:   Fri Oct 23 14:52:33 2020 +0330
+
+    Add files via upload
+
+[33mcommit 33b54c80ac6e815aa71323e401af9e71f5e37af7[m
+Author: Behnejadi <67309565+Behnejadi@users.noreply.github.com>
+Date:   Fri Oct 23 00:26:25 2020 +0330
+
+    Add files via upload
+
+[33mcommit 949cf01c13ef1e87696fc5262d89a72010380fa4[m
+Author: Behnejadi <67309565+Behnejadi@users.noreply.github.com>
+Date:   Fri Oct 23 00:22:03 2020 +0330
+
+    Add files via upload
